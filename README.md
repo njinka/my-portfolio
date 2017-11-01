@@ -1,2 +1,2 @@
-# my-portfolio
-My Professional Portfolio
+# Jinka's portfolio
+My Professional Portfolio - uses AWS and react
